@@ -1,0 +1,1 @@
+this project was done in the rocketseat ignite capter 1 class, we practiced a lot on useState, useEfecct, typescript and more
